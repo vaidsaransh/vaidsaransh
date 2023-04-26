@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **saranshvaid24@gmail.com**
 
-- ⚡ Fun fact **I'm a tech geek and basketball enthusiast**
+- ⚡ Fun fact **I'm a tech geek and a basketball enthusiast**
 
 <h3 align="left">Feel free to connect with me on LinkedIn:</h3>
 <p align="left">
