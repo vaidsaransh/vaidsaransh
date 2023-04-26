@@ -2,7 +2,7 @@
 <h3 align="center">I'm an aspiring data enthusiast, with a strong passion for extracting insights and solving complex problems through data analysis. I'm currently seeking internship positions as a data analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raajann&label=Profile%20views&color=0e75b6&style=flat" alt="raajann" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidsaransh&style=for-the-badge&color=green" alt="saranshvaid" /> </p>
 
 - 📄 Know about my experiences http://saranshvaid.epizy.com/
 
