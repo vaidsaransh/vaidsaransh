@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saransh!</h1>
-<h3 align="center">I'm a Data enthusiast, with a strong passion for extracting insights and solving complex problems through data analysis. I'm currently seeking internship positions as a data analyst.</h3>
+<h3 align="center">I'm a Data enthusiast, with a strong passion for extracting insights and solving complex problems through data analysis. In my final semester of my Business Analytics program at Humber College, I'm currently seeking co-op positions as a data analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidsaransh&style=for-the-badge&color=green" alt="saranshvaid" /> </p>
