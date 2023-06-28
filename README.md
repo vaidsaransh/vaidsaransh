@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidsaransh&style=for-the-badge&color=green" alt="saranshvaid" /> </p>
 
-- 📄 Know about my experiences http://saranshvaid.epizy.com/
-
-- 📫 How to reach me **saranshvaid24@gmail.com**
+- 📫 Feel free to reach me at **saranshvaid24@gmail.com**
 
 - ⚡ Fun fact **I'm a tech geek and a basketball enthusiast**
 
